@@ -85,8 +85,8 @@ plugins {
 
 // Add Dagger dependencies
 dependencies {
-  compile 'com.google.dagger:dagger:2.x'
-  apt 'com.google.dagger:dagger-compiler:2.x'
+  compile 'com.google.dagger:dagger:2.+'
+  apt 'com.google.dagger:dagger-compiler:2.+'
 }
 ```
 
